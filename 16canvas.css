@@ -1,0 +1,14 @@
+/* Offcanvas menus slide in from the side and can be used for navigations or side panels.
+<button class="btn btn-primary" type="button" data-bs-toggle="offcanvas" data-bs-target="#offcanvasExample">
+  Show offcanvas
+</button>
+
+<div class="offcanvas offcanvas-start" id="offcanvasExample">
+  <div class="offcanvas-header">
+    <h5 class="offcanvas-title">Offcanvas</h5>
+    <button type="button" class="btn-close" data-bs-dismiss="offcanvas"></button>
+  </div>
+  <div class="offcanvas-body">
+    <p>Content for the offcanvas goes here.</p>
+  </div>
+</div> */

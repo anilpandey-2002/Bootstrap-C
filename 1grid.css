@@ -1,0 +1,10 @@
+/* 
+Bootstrap uses a 12-column grid system for layout. The grid is responsive and adjusts automatically for different screen sizes.
+
+<div class="container">
+  <div class="row">
+    <div class="col-6 col-md-4">Column 1</div>
+    <div class="col-6 col-md-4">Column 2</div>
+    <div class="col-12 col-md-4">Column 3</div>
+  </div>
+</div> */

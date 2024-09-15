@@ -1,0 +1,7 @@
+/* Bootstrap alerts to display feedback messages.
+<div class="alert alert-success" role="alert">
+  This is a success alert!
+</div>
+<div class="alert alert-danger" role="alert">
+  This is a danger alert!
+</div> */
